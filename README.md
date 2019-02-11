@@ -1,4 +1,5 @@
-# Targeted Vision
+# FRC 2019 Computer Vision 
+Finds vision targets on both the cargo and rocket for FRC Deep Space provided sufficient lighting, etc. Sucessfuly figures this out as shown by the attatched images.
 
 Copyright (c) 2019 Arman Bhalla. All Rights Reserved.
 
@@ -18,7 +19,7 @@ Any files or documentation should be kept under the same name (do not rename REA
 5. This was not created under the supervision or partnership with or for any institution, organization, body, or group.
 All work and modifications done under this project should, as stated in summary points 2 and 3, belong to me and not be accredited to anyone else, institution, body or group. A deployment of slightly adjusted code or the same code is not considered difference. 
 
-6. This product is provided as is without any guarantee or warranty. Failiure to work under causes of modification or deployment on other systems is considering the fault of the user and not the Author (Arman Bhalla).
+6. This product is provided as is without any guarantee or warranty. Failiure to work under causes of modification or deployment on other systems is considering the fault of the user and not the Author (Arman Bhalla). Accepts the licenses of dependencies too.
 
 By using this software, you (on behalf of all people in your groupp, organization, or institution) vow to read and accept the FOSS license (provided in LICENSE.txt), follow all clause listed in this document, the README (README.md), and are naturally obliged to do so.
 Failiure to comply with any and all terms listead in the LICENSE and this file can result in potential [legal] problems (see Free Software Foundation), but more so, a lot of shame. Hard work goes into creating open-source projects and code like this. 
