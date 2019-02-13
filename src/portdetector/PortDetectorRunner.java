@@ -9,8 +9,8 @@ import org.opencv.imgproc.Imgproc;
 import org.opencv.imgproc.Moments;
 
 /**
- *
- * @author greenie
+ * Runs Port Detector and sends it to the robot.
+ * @author Arman Bhalla
  */
 
 public class PortDetectorRunner {
