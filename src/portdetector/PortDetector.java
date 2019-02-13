@@ -21,8 +21,8 @@ public class PortDetector {
     }
 
     public ArrayList<MatOfPoint> process() {
-        Mat source0 = Imgcodecs.imread(getClass().getResource("2.JPG").getPath());
-
+        Mat source0 = Imgcodecs.imread(getClass().getResource("1.JPG").getPath());
+        
         // Step Resize_Image0:
         Mat resizeImageInput = source0;
         double resizeImageWidth = 320.0;

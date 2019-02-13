@@ -49,8 +49,8 @@ public class PortDetectorRunner {
             NetworkTableEntry leftCentroid = table.getEntry("LeftCentroid");
             NetworkTableEntry rightCentroid = table.getEntry("RightCentroid");
 
-            leftCentroid.setDoubleArray(new double[] {centroids.get(0).x, centroids.get(0).y});
-            rightCentroid.setDoubleArray(new double[] {centroids.get(1).x, centroids.get(1).y});
+            leftCentroid.setValue(new double[] {centroids.get(0).x, centroids.get(0).y});
+            rightCentroid.setValue(new double[] {centroids.get(1).x, centroids.get(1).y});
         } catch (Exception e) {
             e.printStackTrace();
         }
