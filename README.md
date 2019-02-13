@@ -1,6 +1,11 @@
 # FRC 2019 Computer Vision 
-Finds vision targets on both the cargo and rocket for FRC Deep Space provided sufficient lighting, etc. Sucessfuly figures this out as shown by the attatched images.
 
+Finds vision targets on both the cargo and rocket for FRC Deep Space provided sufficient lighting, etc. Sucessfuly figures this out as shown by the attatched images. Please read **all** info found in the LICENSE.txt and README.md (this file).
+
+By using this software, you (on behalf of all people in your groupp, organization, or institution) vow to read and accept the FOSS license (provided in LICENSE.txt), follow all clause listed in this document, the README (README.md), and are obliged to do so.
+
+Summary of License
+```
 Copyright (c) 2019 Arman Bhalla. All Rights Reserved.
 
 I, the Author (Arman Bhalla) of this project and all code, files, and ideas therewith, provide this project as free open-source software (FOSS), under such terms that any user, deployer, or observere of
@@ -21,6 +26,6 @@ All work and modifications done under this project should, as stated in summary 
 
 6. This product is provided as is without any guarantee or warranty. Failiure to work under causes of modification or deployment on other systems is considering the fault of the user and not the Author (Arman Bhalla). Accepts the licenses of dependencies too.
 
-By using this software, you (on behalf of all people in your groupp, organization, or institution) vow to read and accept the FOSS license (provided in LICENSE.txt), follow all clause listed in this document, the README (README.md), and are naturally obliged to do so.
 Failiure to comply with any and all terms listead in the LICENSE and this file can result in potential [legal] problems (see Free Software Foundation), but more so, a lot of shame. Hard work goes into creating open-source projects and code like this. 
 Anything you use without accrediation is massive shame to you and your organization; FOSS is made to make the world and the internet a better place, that is its cause. The Free Software Foundation itself states this.
+```
