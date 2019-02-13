@@ -7,6 +7,11 @@ import org.opencv.core.*;
 import org.opencv.imgcodecs.Imgcodecs;
 import org.opencv.imgproc.*;
 
+/**
+ * Uses, finds, and filters the correct target positions of the port stop.
+ * @author Arman Bhalla
+ */
+
 public class PortDetector {
     private Mat resizeImageOutput = new Mat();
     private Mat blurOutput = new Mat();
