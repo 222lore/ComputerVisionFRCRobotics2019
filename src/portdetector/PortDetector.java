@@ -8,8 +8,6 @@ import org.opencv.imgcodecs.Imgcodecs;
 import org.opencv.imgproc.*;
 
 public class PortDetector {
-
-    //Outputs
     private Mat resizeImageOutput = new Mat();
     private Mat blurOutput = new Mat();
     private Mat rgbThresholdOutput = new Mat();
@@ -23,7 +21,6 @@ public class PortDetector {
     public ArrayList<MatOfPoint> process() {
         Mat source0 = Imgcodecs.imread(getClass().getResource("1.JPG").getPath());
         
-        // Step Resize_Image0:
         Mat resizeImageInput = source0;
         double resizeImageWidth = 320.0;
         double resizeImageHeight = 240.0;
@@ -163,7 +160,6 @@ public class PortDetector {
             double minPerimeter, double minWidth, double maxWidth, double minHeight, double maxHeight, double[] solidity, double maxVertexCount, double minVertexCount, double minRatio, double maxRatio, List<MatOfPoint> output) {
         final MatOfInt hull = new MatOfInt();
         output.clear();
-        //operation
         for (int i = 0; i < inputContours.size(); i++) {
             final MatOfPoint contour = inputContours.get(i);
             final Rect bb = Imgproc.boundingRect(contour);
