@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package portdetector;
 
 import edu.wpi.first.networktables.*;
@@ -22,8 +17,6 @@ public class PortDetectorRunner {
     public static void main(String[] args) {
         PortDetector detector = new PortDetector();
         
-        // Do some test to make sure that these actually are the port targets.
-        
         MatOfPoint left = detector.process().get(0);
         System.out.println(detector.process().size() + " contours found. \n");
         
@@ -41,7 +34,6 @@ public class PortDetectorRunner {
             centroids.add(centroid);
         }
         
-        // Send it over to the robot. See PDF in downloads folder.
         try {
             NetworkTableInstance instance = NetworkTableInstance.getDefault();
             NetworkTable table = instance.getTable("rocket-port-targets");
