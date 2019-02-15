@@ -26,6 +26,5 @@ All work and modifications done under this project should, as stated in summary 
 
 6. This product is provided as is without any guarantee or warranty. Failiure to work under causes of modification or deployment on other systems is considering the fault of the user and not the Author (Arman Bhalla). Accepts the licenses of dependencies too.
 
-Failiure to comply with any and all terms listead in the LICENSE and this file can result in potential [legal] problems (see Free Software Foundation), but more so, a lot of shame. Hard work goes into creating open-source projects and code like this. 
-Anything you use without accrediation is massive shame to you and your organization; FOSS is made to make the world and the internet a better place, that is its cause. The Free Software Foundation itself states this.
+Anything you use without accrediation is poor form. FOSS is made to make the world and the internet a better place, that is its cause.
 ```
