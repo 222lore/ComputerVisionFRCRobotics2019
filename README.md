@@ -8,13 +8,13 @@ Summary of License
 ```
 Copyright (c) 2019 Arman Bhalla. All Rights Reserved.
 
-I, the Author (Arman Bhalla) of this project and all code, files, and ideas therewith, provide this project as free open-source software (FOSS), under such terms that any user, deployer, or observere of
+I, the "Author" (Arman Bhalla) of this project and all code, files, and ideas therewith, provide this project as free open-source software (FOSS), under such terms that any user, deployer, or observere of
 of this repository of code must, in summary:
 
 1. Read the license accompanied in the root folder of this project. At all times this original LICENSE and README file should remain in the root
 of all projects that this is included in (i.e, ``/LICENSE.txt``, not ``/x/LICENSE.txt``). This license is subject to change and must be updated subsequently in the root of the project.
 
-2. All modifications should remain completely open source and credited to the Author (Arman Bhalla). The README of the final product should link to this repository in plain text (not hyperlinked). 
+2. All modifications should remain completely open source and credited to the "Author" (aforementioned). The README of the final product should link to this repository in plain text or hyperlinked. 
 Any files or documentation should be kept under the same name (do not rename README.md to, say, README-vision). For instance: ``https://github.com/techtide/ClientVisionCode/``.
 
 3. Any and all modifications of the code should remain under the original attribution. Not to be used in closed-source projects.
